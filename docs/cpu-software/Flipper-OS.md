@@ -29,13 +29,13 @@ Issues with the common approach:
 
 ## Flipper OS architecture
 
-In Flipper OS, the concept of operating system profiles is introduced, which are architecturally separated from the base system.
+In Flipper OS, operating system profiles are introduced and architecturally separated from the base system.
 
 Thus, the operating system consists of two distinct parts:
 
 1. **Flipper OS base system** — a clean, unmodified Debian-based system. It consists of `Linux kernel`, `RootFS`, and `MCU firmware`. The base system is distributed through official updates. This part of the operating system remains unchanged during user customization and configuration.
 
-2. **OS profiles** — an overlay on top of the base system that contains all user customizations, including installed packages, containers, and modifications to the RootFS including config files edits. By applying an OS profile to the Flipper OS base system, you get a fully configured system tailored for a specific use case.
+2. **OS profiles** — an overlay on top of the base system that contains all user customizations, including installed packages, containers, and modifications to the RootFS, including config file edits. By applying an OS profile to the Flipper OS base system, you get a fully configured system tailored for a specific use case.
 
 **Official built-in OS profiles** are distributed as part of the operating system, for example: `Minimal system`, `Wi-Fi router`, `TV media box`, `Network sniffer`, and `Desktop computer`.
 

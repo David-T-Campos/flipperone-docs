@@ -8,7 +8,7 @@ updatedAt: Tue Apr 28 2026 13:31:09 GMT+0000 (Coordinated Universal Time)
 
 ![Flipper One developers portal banner](https://cdn.flipper.net/Flipper_One_main_page_banner.jpg)
 
-Flipper One is a community-driven project that aims to develop a portable Linux multi-tool for hackers. We develop Flipper One publicly, sharing the entire process, challenges we face, and collaborating with the community on solutions.
+Flipper One is a community-driven project that aims to develop a portable Linux multi-tool for hackers. We develop Flipper One publicly, sharing the entire process, the challenges we face, and collaborating with the community on solutions.
 
 ![Flipper One developers portal](https://cdn.flipper.net/flipper-one-developer-portal-splash-cropped.jpg)
 
@@ -53,7 +53,7 @@ Chat with the community and Flipper team on our Discord server
 Each week, we'll share a quick update on how things are coming along and flag any areas where extra help would be welcome. Read at your own pace — jump in whenever a topic grabs you.
 
 :::hint{type="info"}
-⚠️ **Nerds Warning**: this is a developer-focused, highly technical newsletter.
+⚠️ **Nerd Warning**: this is a developer-focused, highly technical newsletter.
 :::
 
 :::Iframe{code="<iframe width=&#x22;540&#x22; height=&#x22;750&#x22; src=&#x22;https://183c2432.sibforms.com/serve/MUIFAAgzua23MvPHbQJyGmSkqAwomY_d-OtcEmQJaZ90xXKQQ_70E5jmVi97OFh-kF6NR69IL74D7n6ieCsJTlnda6j8F0RncbcEgx2_tiYW6qISyQvH3voXD4pnmD2QG2zc0xuKFyp23AnaKWSmyfLm2npNnpagS7W1qW4edPKI60csfWz9k6YhaKyavmH0rZOVz6_ZJxmCtrji&#x22; frameborder=&#x22;0&#x22; scrolling=&#x22;auto&#x22; allowfullscreen style=&#x22;display: block;margin-left: auto;margin-right: auto;max-width: 100%;&#x22;></iframe>" iframeHeight="750"}

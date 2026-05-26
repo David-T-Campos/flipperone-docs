@@ -9,7 +9,7 @@ updatedAt: Tue Apr 28 2026 13:28:23 GMT+0000 (Coordinated Universal Time)
 This page is a reference for contributors writing Flipper One documentation.
 It covers both standard **Markdown** and **Archbee-specific syntax** supported by this wiki.
 
-The source files live on GitHub at [github.com/flipperdevices/flipper-one-docs](https://github.com/flipperdevices/flipper-one-docs). Every merged pull request automatically rebuilds the live site. To contribute, fork the repo and open a pull request.
+The source files live on GitHub at [github.com/flipperdevices/flipperone-docs](https://github.com/flipperdevices/flipperone-docs). Every merged pull request automatically rebuilds the live site. To contribute, fork the repo and open a pull request.
 
 **Quick jump:**
 
