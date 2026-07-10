@@ -27,7 +27,7 @@ We'd love your feedback — look for tasks tagged **help wanted** in the task tr
 
 ***
 
-## ✅  Tasks tracker
+## ✅ Task tracker
 
 All Hardware team tasks are tracked in the GitHub project [Flipper One — Hardware](https://github.com/orgs/flipperdevices/projects/9). There, you can see what the engineering team is working on and follow progress and discussions.
 

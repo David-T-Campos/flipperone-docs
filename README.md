@@ -2,7 +2,7 @@
 
 ![Flipper One Developer Portal](https://cdn.flipper.net/flipper-one-developer-portal-splash.jpg)
 
-This repository is part of the [Flipper One – Docs](https://docs.flipper.net/one/resources/about-docs) sub-project (aka Developer Portal). It contains documentation source files from which the Flipper One Developer is generated: https://docs.flipper.net/one and the sub-project [task tracker](https://github.com/orgs/flipperdevices/projects/10).
+This repository is part of the [Flipper One – Docs](https://docs.flipper.net/one/resources/about-docs) sub-project (aka Developer Portal). It contains documentation source files from which the Flipper One Developer Portal is generated: https://docs.flipper.net/one and the sub-project [task tracker](https://github.com/orgs/flipperdevices/projects/10).
 
 ## Links
 
@@ -14,7 +14,7 @@ This repository is part of the [Flipper One – Docs](https://docs.flipper.net/o
 
 ## How to Contribute
 
-This repository contains the source files from which the Developer Portal is generated. You can contribute by editing any pages and creating new ones. How to contribute:
+This repository contains the source files from which the Developer Portal is generated. You can contribute by editing pages and creating new ones. How to contribute:
 
 1. Read [How to contribute](https://docs.flipper.net/one/resources/about-docs#how-to-contribute)
 2. Fork this repository

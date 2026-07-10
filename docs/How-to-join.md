@@ -16,7 +16,7 @@ Flipper One is currently in active development. As a community-driven project, w
 
 ***
 
-# Sub-projects structure of Flipper One
+# Sub-project structure of Flipper One
 
 ![](https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/kBApFvrmGBeMdNqOiyoIm-20260422-152345.jpg)
 
@@ -183,7 +183,7 @@ Some of our tasks are open. This means the community can interact with them just
 Tasks can be marked with different **labels**:
 
 - **help wanted** — tasks where we actively invite the community to participate and contribute to the solution. Example: [Operating modes discussion](https://github.com/flipperdevices/flipperone-ui/issues/1)
-- **locked** — tasks that are closed to the community. This means we are not ready to discuss the task or accept feedback. You can still see Flipper team’s internal discussions.
+- **locked** — tasks that are closed to the community. This means we are not ready to discuss the task or accept feedback. You can still see the Flipper team’s internal discussions.
 
 ::::hint{type="info"}
 ### ⚠️ Contributions only — no flooding
@@ -253,7 +253,7 @@ Chat with the community and Flipper team on our Discord server
 Each week, we'll share a quick update on how things are coming along and flag any areas where extra help would be welcome. No pressure to jump in right away — you might just spot something in a future update that catches your eye!
 
 :::hint{type="info"}
-⚠️ **Nerds Warning**: this is a developer-focused, highly technical newsletter.
+⚠️ **Nerd Warning**: this is a developer-focused, highly technical newsletter.
 :::
 
 :::Iframe{code="<iframe width=&#x22;540&#x22; height=&#x22;750&#x22; src=&#x22;https://183c2432.sibforms.com/serve/MUIFAAgzua23MvPHbQJyGmSkqAwomY_d-OtcEmQJaZ90xXKQQ_70E5jmVi97OFh-kF6NR69IL74D7n6ieCsJTlnda6j8F0RncbcEgx2_tiYW6qISyQvH3voXD4pnmD2QG2zc0xuKFyp23AnaKWSmyfLm2npNnpagS7W1qW4edPKI60csfWz9k6YhaKyavmH0rZOVz6_ZJxmCtrji&#x22; frameborder=&#x22;0&#x22; scrolling=&#x22;auto&#x22; allowfullscreen style=&#x22;display: block;margin-left: auto;margin-right: auto;max-width: 100%;&#x22;></iframe>" iframeHeight="750"}

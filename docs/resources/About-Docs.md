@@ -27,7 +27,7 @@ We'd love your feedback and help — look for tasks tagged **help wanted** in th
 
 ## How the Developer Portal works
 
-The Flipper One Developer Portal is hosted on [Archbee](https://archbee.com), but all source files live in the [GitHub repository](https://github.com/flipperdevices/flipper-one-docs) — made possible by Archbee's GitHub integration. Diagrams, screenshots, and illustrations are created in Miro and Figma, then exported to the repository alongside the Markdown.
+The Flipper One Developer Portal is hosted on [Archbee](https://archbee.com), but all source files live in the [GitHub repository](https://github.com/flipperdevices/flipperone-docs) — made possible by Archbee's GitHub integration. Diagrams, screenshots, and illustrations are created in Miro and Figma, then exported to the repository alongside the Markdown.
 
 ![How the Developer Portal works](/files/pics/how-docs-work.jpg "How the Developer Portal works")
 

@@ -24,11 +24,11 @@ We'd love your feedback — look for tasks tagged **help wanted** in the task tr
 
 ***
 
-## ✅  Tasks tracker
+## ✅ Task tracker
 
 All mechanical team tasks are tracked in the GitHub project [Flipper One — Mechanics](https://github.com/orgs/flipperdevices/projects/15). There, you can see what the engineering team is working on and follow progress and discussions.
 
-![](https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/j85RNnCbi9_-rFd0k5pPt-20260426-190415.png "Mechaincs sub-project task tracker on GitHub")
+![](https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/j85RNnCbi9_-rFd0k5pPt-20260426-190415.png "Mechanics sub-project task tracker on GitHub")
 
 **Some tasks are open** to the community and marked with a **help wanted** label. You’re welcome to join the discussion on these tasks or submit your design proposals — just make sure to read the [Contribution guide](./#how-to-contribute) first.
 
@@ -65,7 +65,7 @@ Simply click the [Flipper One - Onshape](https://cad.onshape.com/documents/32ee3
 
 - **Pan model** — click :inlineImage[]{src="https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/n3aUz4Jq-P7dqI647w6Kb-20260325-114158.png" alt caption} Pan or click and hold the :inlineImage[]{src="https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/290PzLQDUGQo8RuaFZv_j-20260325-133300.png" alt caption} middle wheel on your mouse.
 - **Rotate model** — click :inlineImage[]{src="https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/NjfVebUq_P1cC0Sc3lFjR-20260325-115455.png" alt caption} Rotate or :inlineImage[]{src="https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/UXZ-1Id6BT7BeIBA6UJrO-20260325-133317.png" alt caption} right-click and hold your mouse.
-- **Hide parts** — click the :inlineImage[]{src="https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/Ayoe8ZZYFOa_gCCftgCb9-20260325-115841.png" alt caption} eye icon next to a part in the left side bar.
+- **Hide parts** — click the :inlineImage[]{src="https://api.archbee.com/api/optimize/3StCFqarJkJQZV-7N79yY/Ayoe8ZZYFOa_gCCftgCb9-20260325-115841.png" alt caption} eye icon next to a part in the left sidebar.
 - **Move parts** — click a part in the 3D view or from the list on the left, then drag it to the desired position.
 
 :::hint{type="info"}
